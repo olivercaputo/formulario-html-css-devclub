@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400&display=swap" rel="stylesheet">
+
+    <title>Formulário Cadastro - Note</title>
+
+</head>
+
+<body>
+    <div class="container">
+        <h2 class="title-register">Cadastro:</h2>
+
+        <form action="https://formsubmit.co/olivercaputo@gmail.com" method="post" enctype="multipart/form-data">
+
+            <label>Nome:</label>
+            <input type="text" name="nome" id="nome" required>
+
+            <label>E-mail:</label>
+            <input type="email" name="email" id="email" required>
+
+            <label>Idade:</label>
+            <input type="number" min="12" step="1" required>
+
+            <label>Data de Nascimento:</label>
+            <input type="date" name="data-de-nascimento" id="data-de-nascimento" required>
+
+            <label>Onde você possui conta:
+                <div>
+                    <label class="input-inline">
+                        <input type="checkbox" name="instagram">Instagram
+                    </label>
+
+                    <label class="input-inline">
+                        <input type="checkbox" name="facebook">Facebook
+                    </label>
+
+                    <label class="input-inline">
+                        <input type="checkbox" name="youtube">YouTube
+                    </label>
+                </div>
+            </label>
+
+            <label>Sexo:
+                <div>
+                    <label class="input-inline">
+                        <input type="radio" name="genero" value="masculino"> Masculino
+                    </label>
+
+                    <label class="input-inline">
+                        <input type="radio" name="genero" value="feminino"> Feminino
+                    </label>
+                </div>
+            </label>
+
+            <label>Cor dos Olhos:
+                <input type="color" name="cor-dos-olhos">
+            </label>
+            
+            <label>Biografia:
+               
+                <textarea name="Bio" cols="30" rows="3" placeholder="Escreva uma pequena biografia."
+                    required></textarea>
+            </label>
+            
+            <label>Foto do Perfil:
+                <input class="input-block" type="file" name="arquivo" accept="image/*" required>
+            </label>
+            
+            <label>Telefone:
+                <input class="input-block" type="tel" name="telefone" required>
+            </label>
+           
+            </label>Link do Perfil do Facebook:
+                <input class="input-block" type="url" name="link-perfil" required>
+            </label>
+            
+            <label>Senha:
+                <input class="input-block" type="password" name="senha" minlength="6" maxlength="8" required>
+            </label>
+           
+            <button class="button-clear" type="reset" name="reset">Limpar</button>
+            <button class="button-submit" type="submit" name="submit">Enviar Dados</button>
+
+    </div>
+
+    </form>
+
+    </div>
+
+</body>
+
+</html>
