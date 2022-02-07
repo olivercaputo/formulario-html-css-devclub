@@ -6,9 +6,12 @@
 .container {
     border: 1px solid blue;
     border-radius: 10px;
-    margin: 20px 3px 10px 3px;
+    margin: 20px 900px 10px 3px;
     padding: 15px;
     background-color: #c9eecf;
+    height: 960px;
+    width: 380px;
+    
 }
 
 .title-register {
