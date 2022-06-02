@@ -16,10 +16,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criação do CSS.
 - [ ] Atualização da Interface.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/olivercaputo/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/olivercaputo/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/olivercaputo/README-template?style=for-the-badge)
-
 ## 💻 Pré-requisitos
 
 Apenas ter um computador ligado à Internet e uma conta no GitHub para visualizar.
