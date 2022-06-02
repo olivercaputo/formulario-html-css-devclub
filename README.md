@@ -1,12 +1,16 @@
-# Project Formulário HTML CSS - DevClub - Note
+# Formulário HTML e CSS - DevClub.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+# First form using HTML and CSS languages - DevClub.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/olivercaputo/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/olivercaputo/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/olivercaputo/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/olivercaputo/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/olivercaputo/README-template?style=for-the-badge)
 
 <img src="./img/tela-formulario.jpg" alt="Tela-Formulário">
+
+> Projeto de um formulário de registro usando as linguagens HTML e CSS. Depois de preencher todos os campos, os dados são enviados por email, coletando todas as informações solicitadas. 
 
 > My first project using HTML and CSS languages. Registration form. After filling in all the fields, the form is sent by email, collecting the requested information. 
 
